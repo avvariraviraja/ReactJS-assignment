@@ -1,0 +1,35 @@
+body{
+    background-color:#734b71;
+}
+.container{
+    padding:5px;
+    width:100%;
+    color:rgb(170, 9, 98);
+    background-color:rgb(207, 223, 245);
+    border-radius:15px;
+    box-shadow: 2px 2px 2px 2px rgb(4, 139, 250);
+}
+.list-group{
+    width:250px;
+    background-color:#8dc8eb;
+    border-radius:10px;
+    box-shadow: 2px 2px 2px 2px rgb(15, 15, 15);
+}
+.list-group1{
+    padding:10px;
+    width:500px;
+    margin-right:50%;
+}
+.welcome{
+    padding:5px;
+    color:blueviolet;
+    font-size:30px;
+    color:
+}
+button{
+    font-display:bolder;
+    padding:10px;
+    background-color: blue;
+    color:whitesmoke;
+    border-radius: 50px;
+}
